@@ -16,7 +16,7 @@
 - **Por que C++ é Importante:** C++ é uma linguagem de programação amplamente utilizada na programação competitiva devido à sua eficiência e flexibilidade. Ela permite que os programadores escrevam códigos mais rápidos e eficientes em termos de tempo e memória, o que é crucial em competições onde a velocidade e a precisão são essenciais.
 - **Eficiência de Tempo:** C++ é uma linguagem compilada, o que significa que o código é traduzido para linguagem de máquina antes da execução. Isso resulta em um tempo de execução mais rápido em comparação com linguagens interpretadas, como Python ou Java, que são mais lentas em competições onde o tempo de execução é crítico.
 - **Eficiência de Memória:** C++ oferece mais controle sobre a alocação de memória, permitindo que os programadores otimizem o uso de memória. Isso é importante em competições onde a limitação de memória pode ser um problema.
-- **Uso Generalizado: **C++ é amplamente utilizado em competições de programação, e a maioria dos materiais e recursos disponíveis online são voltados para esta linguagem. Portanto, é uma escolha natural para quem deseja se destacar nesse campo.
+- **Uso Generalizado:** C++ é amplamente utilizado em competições de programação, e a maioria dos materiais e recursos disponíveis online são voltados para esta linguagem. Portanto, é uma escolha natural para quem deseja se destacar nesse campo.
 
 ### Estrutura básica em C++ - Formato Básico
 
